@@ -31,7 +31,7 @@ function App() {
   return (
     <div>
       <Container> 
-        <Typography color="textPrimary" gutterBottom variant="h2" align="center">
+        <Typography color="textPrimary" gutterBottom variant="h1" align="center">
           React Material UI Example
         </Typography>
         <Grid container spacing={3}>
